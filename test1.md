@@ -33,16 +33,3 @@ True
 PS C:> "abc", "def" -ne "abc"
 def
 ```
-
-## -gt
-Description: Greater-than.
-
-Example:
-
-```PowerShell
-PS C:> 8 -gt 6
-True
-
-PS C:> 7, 8, 9 -gt 8
-9
-```
